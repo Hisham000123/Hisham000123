@@ -139,15 +139,7 @@ A web-based auction application built with **PHP, MySQL, JavaScript, HTML, CSS, 
 
 </p>
 
----
 
-> **Build. Learn. Improve. Repeat.**
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
----
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>

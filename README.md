@@ -13,20 +13,15 @@ I'm a **Full Stack Developer** passionate about building responsive, scalable, a
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,vite,bootstrap,tailwind,nodejs,express,php,mongodb,mysql,git,github,postman,vscode,docker" height="45" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,vite,bootstrap,tailwind,nodejs,express,php,mongodb,mysql,git,github,postman,vscode,docker" height="45" alt="Tech Stack" height ="45"/>
 </p>
 
 - **Languages:** JavaScript · HTML5 · CSS3 · Python
 - **Frontend:** React.js · Vite · Bootstrap · Tailwind CSS
 - **Backend:** Node.js · Express.js · PHP · REST APIs · JWT
 - **Databases:** MongoDB · MySQL
+- **AI:** AI Agents · LangChain
 - **Tools:** Git · GitHub · Postman · VS Code · Docker
-
----
-
-## 📚 Currently Learning
-
-Advanced React.js · Node.js & Express.js · MongoDB · AI Integration & LangChain · Docker & CI/CD · Testing · Data Structures
 
 ---
 
